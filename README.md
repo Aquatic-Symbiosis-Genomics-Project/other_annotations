@@ -4,6 +4,7 @@ collected annotations of small clase ASG species
 currently:
 * Euglenozoa (Rhynchopus euleeides)
 * Chlorophyta (Protoeuglena noctilucae)
+* Xenacoelomorpha (Symsagittifera roscoffensis)
 
 currently created using [TE Tools](https://github.com/Dfam-consortium/TETools) => [VARUS](https://github.com/Gaius-Augustus/VARUS) => [BRAKER3](https://github.com/Gaius-Augustus/BRAKER) / [GALBA](https://github.com/Gaius-Augustus/GALBA) => [OMArk](https://github.com/DessimozLab/OMArk) => [MakeHub](https://github.com/Gaius-Augustus/MakeHub)
 

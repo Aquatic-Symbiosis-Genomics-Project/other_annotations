@@ -2,7 +2,7 @@
 collected annotations of small clase ASG species
 
 currently:
-* Euglenozoa (Rhynchopus euleeides, Flectonema sp. DT1601, Diplonema japonicum, Perkinsela sp. pyNocScin1)
+* Euglenozoa (Rhynchopus euleeides, Rhynchopus sp. YZ270_cl-10, Flectonema sp. DT1601, Diplonema japonicum, Perkinsela sp. pyNocScin1)
 * Chlorophyta (Protoeuglena noctilucae)
 * Xenacoelomorpha (Symsagittifera roscoffensis)
 

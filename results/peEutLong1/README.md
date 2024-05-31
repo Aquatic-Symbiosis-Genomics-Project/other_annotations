@@ -8,4 +8,5 @@
 
 # Notes
 * RepeatModeller died on the LTR analysis, so they were not separatedly masked.
+* will try some alternate ways to mask the LTRs, as they artificially inflate the gene number
 * the euglenozoa proteins were used 

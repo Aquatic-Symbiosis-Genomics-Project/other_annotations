@@ -41,9 +41,9 @@ Using: [BRAKER3](https://hub.docker.com/r/teambraker/braker3) / [GALBA](https://
 * $BAM is the varus.bam
 
 ## BRAKER3
-currently set to use 22 cores / 48G RAM for sponges
+currently set to use 22 cores / 48G RAM for sponges. ORTHODB is the closest BUSCO set.
 ```
-singularity exec --bind `pwd`:$HOME $BRAKER braker.pl --genome=$FASTA --prot_seq=$DB --threads=$THREADS --bam=$BAM --workingdir=BRAKER3 --species=$SPECIES
+singularity exec --bind `pwd`:$HOME $BRAKER braker.pl --genome=$FASTA --prot_seq=$DB --threads=$THREADS --bam=$BAM --workingdir=BRAKER3 --species=$SPECIES --busco_lineage=$ORTHODB
 ```
 ## GALBA
 currently set to use 8 cores / 20G RAM for sponges

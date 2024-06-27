@@ -7,4 +7,4 @@
 * [tarball of RepeatModeller output](https://asg_hubs.cog.sanger.ac.uk/txSymRosc1/txSymRosc1.tar.xz)
 
 # Notes:
-As protein-set a combination of the OrthoDB 11 Metazoa section and UniProt xenacoelomorpha proteins was used.
+As protein-set a combination of the RefSeq, Braker and UniProt xenacoelomorpha proteins was used.

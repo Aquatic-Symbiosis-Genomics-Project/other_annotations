@@ -11,3 +11,6 @@ UniProt of all Lichinomycetes proteins (with isoforms) and a random subsampled 4
 
 ## uniprotkb_xenacoelomorpha_2024_01_15.fasta.xz
 UniProt of all cenacoelomorpha proteins (with isoforms) - as of 15th January 2024
+
+## nitzschia_collection.fa.xz
+UniProt of all Bacillariophycidae proteins (with isoforms) as of 14th October 2024 + Nitzschia protein sets from [Natalia Nenasheva](https://arxiv.org/pdf/2410.05467)

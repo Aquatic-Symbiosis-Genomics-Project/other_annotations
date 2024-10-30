@@ -5,6 +5,7 @@ currently:
 * Euglenozoa (Rhynchopus euleeides, Rhynchopus sp. YZ270_cl-10, Flectonema sp. DT1601, Diplonema japonicum, Perkinsela sp. pyNocScin1, Eutreptiella sp. 'Long Island Sound 2002')
 * Chlorophyta (Protoeuglena noctilucae)
 * Xenacoelomorpha (Symsagittifera roscoffensis, Convolutriloba macropyga)
+* Bivalvia (Americardia media)
 
 currently created using [TE Tools](https://github.com/Dfam-consortium/TETools) => [VARUS](https://github.com/Gaius-Augustus/VARUS) => [BRAKER3](https://github.com/Gaius-Augustus/BRAKER) / [GALBA](https://github.com/Gaius-Augustus/GALBA) => [OMArk](https://github.com/DessimozLab/OMArk) => [MakeHub](https://github.com/Gaius-Augustus/MakeHub)
 

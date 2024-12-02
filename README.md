@@ -2,7 +2,7 @@
 collected annotations of small clade ASG species
 
 currently:
-* Euglenozoa (Rhynchopus euleeides, Rhynchopus sp. YZ270_cl-10, Flectonema sp. DT1601, Diplonema japonicum, Perkinsela sp. pyNocScin1, Eutreptiella sp. 'Long Island Sound 2002')
+* Euglenozoa (Rhynchopus euleeides, Rhynchopus sp. YZ270_cl-10, Flectonema sp. DT1601, Diplonema japonicum, Perkinsela sp. pyNocScin1, Eutreptiella sp. 'Long Island Sound 2002', Rhynchopus humris)
 * Chlorophyta (Protoeuglena noctilucae)
 * Xenacoelomorpha (Symsagittifera roscoffensis, Convolutriloba macropyga)
 * Bivalvia (Americardia media)
